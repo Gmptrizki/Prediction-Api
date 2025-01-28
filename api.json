@@ -1,0 +1,282 @@
+[
+    {
+      "tanggal": "29-12-2024",
+      "hari": "Minggu",
+      "jenis": {
+        "HK": "7901",
+        "SGP": "6777",
+        "SDY": "6584"
+      }
+    },
+    {
+      "tanggal": "30-12-2024",
+      "hari": "Senin",
+      "jenis": {
+        "HK": "5760",
+        "SGP": "3135",
+        "SDY": "3899"
+      }
+    },
+    {
+      "tanggal": "31-12-2024",
+      "hari": "Selasa",
+      "jenis": {
+        "HK": "0279",
+        "SGP": "-",
+        "SDY": "8567"
+      }
+    },
+    {
+      "tanggal": "01-01-2025",
+      "hari": "Rabu",
+      "jenis": {
+        "HK": "9006",
+        "SGP": "7293",
+        "SDY": "4206"
+      }
+    },
+    {
+      "tanggal": "02-01-2025",
+      "hari": "Kamis",
+      "jenis": {
+        "HK": "0141",
+        "SGP": "-",
+        "SDY": "8314"
+      }
+    },
+    {
+      "tanggal": "03-01-2025",
+      "hari": "Jumat",
+      "jenis": {
+        "HK": "6393",
+        "SGP": "5892",
+        "SDY": "0868"
+      }
+    },
+    {
+      "tanggal": "04-01-2025",
+      "hari": "Sabtu",
+      "jenis": {
+        "HK": "2704",
+        "SGP": "2679",
+        "SDY": "9826"
+      }
+    },
+    {
+      "tanggal": "05-01-2025",
+      "hari": "Minggu",
+      "jenis": {
+        "HK": "5386",
+        "SGP": "5256",
+        "SDY": "0524"
+      }
+    },
+    {
+      "tanggal": "06-01-2025",
+      "hari": "Senin",
+      "jenis": {
+        "HK": "8962",
+        "SGP": "3841",
+        "SDY": "6704"
+      }
+    },
+    {
+      "tanggal": "07-01-2025",
+      "hari": "Selasa",
+      "jenis": {
+        "HK": "4578",
+        "SGP": "-",
+        "SDY": "0928"
+      }
+    },
+    {
+      "tanggal": "08-01-2025",
+      "hari": "Rabu",
+      "jenis": {
+        "HK": "3045",
+        "SGP": "8975",
+        "SDY": "3556"
+      }
+    },
+    {
+      "tanggal": "09-01-2025",
+      "hari": "Kamis",
+      "jenis": {
+        "HK": "2953",
+        "SGP": "6470",
+        "SDY": "7180"
+      }
+    },
+    {
+      "tanggal": "10-01-2025",
+      "hari": "Jumat",
+      "jenis": {
+        "HK": "6474",
+        "SGP": "-",
+        "SDY": "0151"
+      }
+    },
+    {
+      "tanggal": "11-01-2025",
+      "hari": "Sabtu",
+      "jenis": {
+        "HK": "9781",
+        "SGP": "5263",
+        "SDY": "4520"
+      }
+    },
+    {
+      "tanggal": "12-01-2025",
+      "hari": "Minggu",
+      "jenis": {
+        "HK": "7268",
+        "SGP": "8504",
+        "SDY": "1462"
+      }
+    },
+    {
+      "tanggal": "13-01-2025",
+      "hari": "Senin",
+      "jenis": {
+        "HK": "9873",
+        "SGP": "8785",
+        "SDY": "8310"
+      }
+    },
+    {
+      "tanggal": "14-01-2025",
+      "hari": "Selasa",
+      "jenis": {
+        "HK": "8336",
+        "SGP": "-",
+        "SDY": "2047"
+      }
+    },
+    {
+      "tanggal": "15-01-2025",
+      "hari": "Rabu",
+      "jenis": {
+        "HK": "5046",
+        "SGP": "5832",
+        "SDY": "3880"
+      }
+    },
+    {
+      "tanggal": "16-01-2025",
+      "hari": "Kamis",
+      "jenis": {
+        "HK": "6293",
+        "SGP": "1286",
+        "SDY": "4707"
+      }
+    },
+    {
+      "tanggal": "17-01-2025",
+      "hari": "Jumat",
+      "jenis": {
+        "HK": "0682",
+        "SGP": "-",
+        "SDY": "3454"
+      }
+    },
+    {
+      "tanggal": "18-01-2025",
+      "hari": "Sabtu",
+      "jenis": {
+        "HK": "3900",
+        "SGP": "9858",
+        "SDY": "5379"
+      }
+    },
+    {
+      "tanggal": "19-01-2025",
+      "hari": "Minggu",
+      "jenis": {
+        "HK": "2763",
+        "SGP": "3891",
+        "SDY": "6998"
+      }
+    },
+    {
+      "tanggal": "20-01-2025",
+      "hari": "Senin",
+      "jenis": {
+        "HK": "3572",
+        "SGP": "1874",
+        "SDY": "4652"
+      }
+    },
+    {
+      "tanggal": "21-01-2025",
+      "hari": "Selasa",
+      "jenis": {
+        "HK": "7344",
+        "SGP": "-",
+        "SDY": "7591"
+      }
+    },
+    {
+      "tanggal": "22-01-2025",
+      "hari": "Rabu",
+      "jenis": {
+        "HK": "2576",
+        "SGP": "5416",
+        "SDY": "8004"
+      }
+    },
+    {
+      "tanggal": "23-01-2025",
+      "hari": "Kamis",
+      "jenis": {
+        "HK": "9097",
+        "SGP": "-",
+        "SDY": "9379"
+      }
+    },
+    {
+      "tanggal": "24-01-2025",
+      "hari": "Jumat",
+      "jenis": {
+        "HK": "5282",
+        "SGP": "8812",
+        "SDY": "0594"
+      }
+    },
+    {
+      "tanggal": "25-01-2025",
+      "hari": "Sabtu",
+      "jenis": {
+        "HK": "4689",
+        "SGP": "1222",
+        "SDY": "4510"
+      }
+    },
+    {
+      "tanggal": "26-01-2025",
+      "hari": "Minggu",
+      "jenis": {
+        "HK": "0893",
+        "SGP": "2782",
+        "SDY": "6074"
+      }
+    },
+    {
+      "tanggal": "27-01-2025",
+      "hari": "Senin",
+      "jenis": {
+        "HK": "7610",
+        "SGP": "8988",
+        "SDY": "4462"
+      }
+    },
+    {
+      "tanggal": "28-01-2025",
+      "hari": "Selasa",
+      "jenis": {
+        "HK": "-",
+        "SGP": "-",
+        "SDY": "7596"
+      }
+    }
+  ]
+  
