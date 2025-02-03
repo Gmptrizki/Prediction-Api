@@ -1,3 +1,2 @@
-#﻿# prediction-api
+Api
 
-###dont forget using /api.json
